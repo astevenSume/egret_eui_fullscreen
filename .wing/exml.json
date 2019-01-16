@@ -1,0 +1,35 @@
+{
+  "16849d069fb": {
+    "path": "Action.ts",
+    "class": "Action",
+    "parentPath": ""
+  },
+  "global": {
+    "globalAutoLayerMarkEnable": false
+  },
+  "1684b252cb3": {
+    "path": "actso\\MainScene.ts",
+    "class": "MainScene",
+    "parentPath": ""
+  },
+  "1684b64f488": {
+    "path": "actso\\PlayerScene.ts",
+    "class": "PlayerScene",
+    "parentPath": ""
+  },
+  "1684b658170": {
+    "path": "actso\\HeroScene.ts",
+    "class": "HeroScene",
+    "parentPath": ""
+  },
+  "1684b65df2a": {
+    "path": "actso\\GoodsScene.ts",
+    "class": "GoodsScene",
+    "parentPath": ""
+  },
+  "1684b6614f6": {
+    "path": "actso\\AboutScene.ts",
+    "class": "AboutScene",
+    "parentPath": ""
+  }
+}
