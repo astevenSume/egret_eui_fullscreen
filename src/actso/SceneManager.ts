@@ -27,10 +27,6 @@ class SceneManager extends egret.Sprite {
 
     public setStage(s:eui.UILayer){
         this._stage = s
-        // SceneManager.swidth = s.width
-        // SceneManager.sheight = s.height
-        // console.log('main width: ' + SceneManager.swidth);
-        // console.log('main height ' + SceneManager.sheight);
     }
 
     static toMainScene() {
